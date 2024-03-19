@@ -5,7 +5,7 @@ O projeto compreende a análise exploratória de dados referentes ao conjunto de
 <b>1- share-of-the-world-population-with-at-least-basic-education </b>: 
 Percentual da população adulta (mais de 15 anos) que receberam alguma educação formal.
 
-<b> 2- learning-adjusted-years-of-school-lays</b>: O número total de anos que as crianças passam na escola (considerando anos de qualidade recebem).
+<b> 2- learning-adjusted-years-of-school-lays</b>: O número total de anos que as crianças passam na escola (considerando anos de qualidade recebidos).
 
 <b>3- number-of-out-of-school-children</b>: O número de crianças que não estão na escola no ensino primário e secundário por gênero.
 
